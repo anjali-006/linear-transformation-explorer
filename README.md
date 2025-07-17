@@ -64,6 +64,7 @@ This helps understand how a matrix maps input space between:
 ## Authors
 
 - Anjali Kakde
+- Rosh R
 
 ## License
 
